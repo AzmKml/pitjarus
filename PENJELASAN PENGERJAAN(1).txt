@@ -1,0 +1,15 @@
+Penjelasan:
+1. Buat satu halaman yang berisi 3 komponen seperti di slide ke 3 pada PPT.
+2. Komponen pertama berupa filter, terdiri dari filter area(bisa multiple select),
+   filter date from, dan filter date to, kemudian ada tombol view submit, yang
+   mana ketika klik tombol view, data berubah sesuai dengan filter yang dipilih.
+3. Komponen kedua berupa chart yang mana di bagi oer region berdasarkan nilainya.
+   Formula untuk mendapatkan nilainya bisa dilihat di sebelah gambar chart.
+4. Komponen ketiga berupa tabel yang dibentuk per brand dan per area,
+   sehingga data nilai yg ditampilkan sesuai dengan gambar table yang terlampir.
+5. Di slide kedua berupa relasi antar tabel yang nantinya kami akan berikan dbnya,
+   sehingga bisa langsung di import dan diolah datanya di project yang akan dibuat
+   sesuai dengan penjelasan diatas.
+6. Disarankan untuk mengerjakan project diatas menggunakan framework CodeIgniter.
+
+   GOOD LUCK!
